@@ -64,6 +64,3 @@ python experiment_runner.py
 - `sensitivity_lambda.csv` 和 `sensitivity_fee.csv`：参数敏感性分析结果
 - `*.png`：训练曲线、方法对比图和敏感性分析图
 
-## 说明
-
-本仓库已移除个人信息、本地临时文件、生成报告、打包压缩文件、Notebook 副本、Python 缓存和模型权重文件，更适合直接作为 GitHub 开源项目发布。
