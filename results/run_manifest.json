@@ -1,0 +1,31 @@
+﻿{
+    "experiment_version":  "v1.6.0",
+    "run_hash":  "4ef8ee1e673d",
+    "run_dir":  "results/versions/v1.6.0/4ef8ee1e673d",
+    "ddpg":  {
+                 "method":  "ddpg",
+                 "source":  "exact",
+                 "exact_hash":  "d6befe44a249",
+                 "compat_hash":  "114ace6272cb",
+                 "load_path":  "",
+                 "save_path":  "results/checkpoints/ddpg/114ace6272cb/d6befe44a249.pkl",
+                 "trained_episodes":  0,
+                 "completed_episodes":  180
+             },
+    "ppo":  {
+                "method":  "ppo",
+                "source":  "exact",
+                "exact_hash":  "c92affc7884d",
+                "compat_hash":  "e7283f0c3465",
+                "load_path":  "",
+                "save_path":  "results/checkpoints/ppo/e7283f0c3465/c92affc7884d.pkl",
+                "trained_episodes":  0,
+                "completed_episodes":  180,
+                "teacher_exact_hash":  "d6befe44a249"
+            },
+    "multi_seed_train_seeds":  [
+                                   7,
+                                   17,
+                                   27
+                               ]
+}

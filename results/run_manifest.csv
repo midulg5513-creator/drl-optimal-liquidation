@@ -1,0 +1,2 @@
+﻿experiment_version,run_hash,ddpg_source,ddpg_trained_episodes,ppo_source,ppo_trained_episodes,multi_seed_enabled,num_statistical_seeds,twap_enabled
+v1.6.0,4ef8ee1e673d,exact,0,exact,0,True,3,True

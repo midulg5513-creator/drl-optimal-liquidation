@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# 实验生成文件
+results/checkpoints/
+results/checkpoints_smoke/
+results/versions/
+*.pkl
+
+# 本地 Notebook 与报告文件
+*.ipynb_checkpoints/
+*.docx
+*.pdf
+*.zip
+
+# 系统与编辑器文件
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
